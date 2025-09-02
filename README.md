@@ -1,2 +1,3 @@
 # Tech_Academy_Unreal_Projects
-C++ and Unreal Engine Projects For The Tech Academy
+This repository includes my C++ and Unreal Engine Projects for The Tech Academy
+
